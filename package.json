@@ -1,6 +1,6 @@
 {
   "homepage": "https://kavuriShivaSaiKiran.github.io/Text-Utils",
-  "name": "text-utils",
+  "name": "text",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
